@@ -9,5 +9,5 @@ Being still in a very early stage of development, website and mailinglist are av
 Some services are also online:
 
 - Mailinglist: [dev@fieldtracks.org](mailto:dev@fieldtracks.org) - [https://lists.fieldtracks.org/cgi-bin/mailman/listinfo/dev](https://lists.fieldtracks.org/cgi-bin/mailman/listinfo/dev)
-- Github: [https://github.org/fieldtracks](https://github.org/fieldtracks)
+- Github: [https://github.com/fieldtracks](https://github.com/fieldtracks)
 - Wiki (internal): [https://git.kbu.freifunk.net/FieldTracks/docs-internal/wikis/home](https://git.kbu.freifunk.net/FieldTracks/docs-internal/wikis/home)
