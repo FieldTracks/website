@@ -16,7 +16,7 @@
 title: Fieldtracks
 email: info@fieldtracks.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Fieltracks - Tracking personal in field exercises
+  Fieldtracks - Tracking personal in field exercises
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://fieldtracks.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: fieldtracks
