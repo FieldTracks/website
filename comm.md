@@ -5,7 +5,6 @@ permalink: /communication/
 ---
 
 - E-Mail: [info@fieldtracks.org](mailto:info@fieldtracks.org)
-[https://lists.fieldtracks.org/cgi-bin/mailman/listinfo/dev](https://lists.fieldtracks.org/cgi-bin/mailman/listinfo/dev)
 - Github: [https://github.com/fieldtracks](https://github.com/fieldtracks)
 
 
