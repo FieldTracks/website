@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hackahton"
+title:  "Hackathon"
 date:   2019-04-07 19:47:18 +0200
 categories: events
 ---
