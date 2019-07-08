@@ -24,7 +24,12 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-      {{ post.content }}
+      {{ post.content | split:'<!--break-->' | first }}
+      {{% }}
+      {% if post.content contains '<!--break-->' %}
+        <a href="{{ post.url | relative_url }}">Full article</a>
+      {% endif %}
+
       </li>
       {%- endfor -%}
     </ul>
