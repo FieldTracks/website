@@ -4,6 +4,7 @@ title:  "Making progress"
 date:   2019-02-25 20:14:18 +0200
 categories: status
 ---
+
 It has been a while since the project started and we have made some progress in development. Let us have short look at our current codebase:
 
 - [JellingStone](https://github.com/FieldTracks/JellingStone) is our ESP32 firmware. It supports Bluetooth Low Energy (BLE) scanning and beaconing and is almost complete.
