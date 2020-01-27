@@ -8,13 +8,8 @@ permalink: /communication/
 - Github: [https://github.com/fieldtracks](https://github.com/fieldtracks)
 
 
-### Mailinglist
-The dev-mailinglist is our forum for online discussions.
-Mails, that are sent to dev@fieldtracks.org are distributed among all subscribes.
+### Matrix room #ft-public
 
-By joining this mailingliste, you agree to our [privacy policy](/about).  
-*Indem Sie der Mailingliste beitreten, stimmen Sie unserer [Datenschutzerklärung](/about) zu.*
+The matrix room [#ft-public:matrix.org](matrix:#ft-public:matrix.org) is our forum for online discussions.
 
-<form action="https://lists.fieldtracks.org/cgi-bin/mailman/listinfo/dev">
-<button name="submit" >Accept and Join / Zustimmen und Beitreten</button>
-</form>
+Have a look at [https://riot.im](https://riot.im) for details.
