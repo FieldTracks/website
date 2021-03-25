@@ -47,6 +47,6 @@ Let's use this years Easter-DiVOC to progress. There's a lot of stuff to do.
 Let's go for it! 
 
 We're going to organize via BigBlueButton (https://bbb.daten.reisen/b/yan-uzg-1hh-qhh).
-Thins are about to start round 12 o'clock on both Saturday and Sunday. There's no end-time yet.
+Thinks are about to start round 12 o'clock on both Saturday and Sunday. There's no end-time yet.
 
 *Due to being a relatively small team, the room might not be open all time*
