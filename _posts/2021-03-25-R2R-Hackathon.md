@@ -36,9 +36,9 @@ Los geht's am Samstag und am Sonntag um ca. 12 Uhr (CEST). Das Ende ist offen.
 ## A Hackathon
 
 Fieldtracks.org ist in silence mode for a year or so. Due to the SARS-CoV-2 pandemic, virtually all
-field execerises and drills are canceled. However, thinks coulld go one this year.
+field execerises and drills are canceled. However, thinks could go one this year.
 
-Let's use this years Easter-DiVOC to progress. There's a lot of stuff to due.
+Let's use this years Easter-DiVOC to progress. There's a lot of stuff to do.
 
 * The frontend (fieldmon) needs new features and better UX (https://github.com/FieldTracks/fieldmon/wiki)
 * Different Python-Middleware services can get merged repacked for Docker.
