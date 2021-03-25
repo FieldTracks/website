@@ -10,6 +10,6 @@ permalink: /communication/
 
 ### Matrix room #ft-public
 
-The matrix room [#ft-public:matrix.org](matrix:#ft-public:matrix.org) is our forum for online discussions.
+The matrix room [#ft-public:matrix.org](https://matrix.to/#/!QJCvSGwagkvJYKzTAX:matrix.org?via=matrix.org) is our forum for online discussions.
 
 Have a look at [https://riot.im](https://riot.im) for details.
