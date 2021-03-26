@@ -32,6 +32,8 @@ Los geht's am Samstag und am Sonntag um ca. 12 Uhr (CEST). Das Ende ist offen.
 
 *Da wir ein recht kleines Team sind, ist der Raum möglicherweise nicht fortlaufend besetzt.*
 
+Bei Fragen kannst Du Dich auch gerne vorab an info@fieldtracks.org werden.
+
 
 ## A Hackathon
 
@@ -50,3 +52,5 @@ We're going to organize via BigBlueButton (https://bbb.daten.reisen/b/yan-uzg-1h
 Thinks are about to start round 12 o'clock on both Saturday and Sunday. There's no end-time yet.
 
 *Due to being a relatively small team, the room might not be open all time*
+
+Please contact info@fieldtracks.org in case of further questions.
