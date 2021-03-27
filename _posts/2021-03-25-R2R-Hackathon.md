@@ -8,7 +8,7 @@ categories: misc
 Machen wir einen Hackathon // Let's have a hackathon:
 * 📅 2021-04-03 / -04
 * 🕑 12.00 (CEST) - ...
-* 🏠 https://bbb.daten.reisen/b/yan-uzg-1hh-qhh
+* 🏠 [https://bbb.daten.reisen/b/yan-uzg-1hh-qhh](https://bbb.daten.reisen/b/yan-uzg-1hh-qhh)
 
 <!--break-->
 
