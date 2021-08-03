@@ -4,3 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+# The Fieldtracks Project
+
+Fieldtracks implements localization and tracking for firefighters, medics & actors during field training exercises.
+It is based on BLE, ESP32 and mesh networking; it focuses on both indoor and outdoor deployments.
+For details see the recording of our talk at [FOSDEM 2020](https://archive.fosdem.org/2020/schedule/event/iotfieldtracks/).
