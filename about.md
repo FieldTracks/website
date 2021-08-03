@@ -17,8 +17,8 @@ deploying an IoT-system in tactical manner we started working on this project.
 ### Imprint
 
 Jan Lühr  
-Carl-Justi Str. 30  
-53121 Bonn  
+Stallagsweg 107  
+50767 Köln  
 [info@fieldtracks.org](mailto:info@fieldtracks.org)
 
 ### Datenschutzerklärung
