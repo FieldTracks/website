@@ -9,7 +9,7 @@ JellingStone is the software for ESP32-devices. It utilizes Bluetooth for scanni
 Results are transmitted over MQTT and WLAN. It is based on [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html).
 
 Recently, a rewrite was needed, and we moved to a byte-oriented wire-protocol for reports.
-It is already implemented in JellingStone but changes to the StoneAggregator is still outstanding.
+It is already implemented in JellingStone but changes to the StoneAggregator are yet to be done.
 
 <!--break-->
 
