@@ -26,7 +26,7 @@ When starting JellingStone back in 2017 / 2018, it was designed as a research pr
 we instead focused on exploring what was possible. Our motto was simplicity over optimization. For scan-reports we went
 for a simple protocol. Interesting data such as MAC-addresses, UUIDs, min/max/avg signal strength was encoded in JSON.
 Almost 100 byte of data were needed per detected beacon. Of course, this can be reduced by compression. Still,
-such a report includes a lot of data that is neither processed and analyzed.
+such a report includes a lot of data that is neither processed nor analyzed.
 Growing and compressing a JSON string consumes memory, whereas only 160 KiB of RAM are dynamically available.
 In addition, encrypting, fragmenting and transmitting larger MQTT-payloads puts significant stress on ESP32 devices.
 
