@@ -8,11 +8,9 @@ categories: misc
 Machen wir einen Hackathon // Let's have a hackathon:
 * 📅 2021-04-03 / -04
 * 🕑 12.00 (CEST) - ...
-* 💬 Matrix: #ft-public:matrix.org
 * 🏠 
 [https://play.c4map.fieldtracks.org/_/global/maps.c4map.fieldtracks.org/c4map/countc4.json#start](https://play.c4map.fieldtracks.org/)
 
-<del>[https://bbb.daten.reisen/b/yan-uzg-1hh-qhh](https://bbb.daten.reisen/b/yan-uzg-1hh-qhh)</del>
 
 <!--break-->
 
