@@ -1,0 +1,31 @@
+jobs: MyPages
+steps:
+    build:
+    - uses: actions/checkout@v4
+    - uses: ruby/setup-ruby@ec02537da5712d66d4d50a0f33b7eb52773b5ed1
+      with:
+        ruby-version: '2.3.8' # Not needed with a .ruby-version file
+    - run: bundle install
+    - run: bundle exec jekyll build
+
+deploy:
+    # Add a dependency to the build job
+    needs: build
+
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    # Specify runner + deployment step
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 #
+        artifact_name: _site/*
