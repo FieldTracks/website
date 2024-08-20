@@ -8,32 +8,15 @@ jobs:
         - uses: actions/checkout@v4
         - uses: ruby/setup-ruby@ec02537da5712d66d4d50a0f33b7eb52773b5ed1
           with:
-            ruby-version: '2.3.8' # Not needed with a .ruby-version file
+            ruby-version: '2.3.8'
         - run: bundle install
         - run: bundle exec jekyll build
-        - uses: actions/upload-pages-artifact@v3
+        - name: rsync deployments
+          uses: burnett01/rsync-deployments@7.0.1
           with:
-           # location of the coverage artifacts
-           name: github-pages
-           path: "_site"
-  deploy:
-      # Add a dependency to the build job
-      needs: build
-
-      # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-      permissions:
-        pages: write      # to deploy to Pages
-        id-token: write   # to verify the deployment originates from an appropriate source
-
-      # Deploy to the github-pages environment
-      environment:
-        name: github-pages
-
-
-      # Specify runner + deployment step
-      runs-on: ubuntu-latest
-      steps:
-        - name: Deploy to GitHub Pages
-          id: deployment
-          uses: actions/deploy-pages@v4 #
-
+            switches: -avzr --delete
+            path: _site/
+            remote_path: /var/www/vhosts/fieldtracks.org/httpdocs
+            remote_host: fieldtracks.org
+            remote_user: fieldtracks
+            remote_key: ${{ secrets.DEPLOY_KEY }}
